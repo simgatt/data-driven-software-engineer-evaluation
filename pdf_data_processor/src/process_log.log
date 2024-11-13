@@ -1,0 +1,9 @@
+2024-11-13 11:35:02,598 - INFO - Inizio del processo di estrazione dati dai PDF
+2024-11-13 11:35:02,598 - INFO - Processing sample-1.pdf...
+2024-11-13 11:35:02,735 - INFO - Successfully extracted text from C:\Users\simon\OneDrive\Documenti\data-driven-software-engineer-evaluation\data-processing\pdfs\sample-1.pdf
+2024-11-13 11:35:02,735 - INFO - Processing sample-2.pdf...
+2024-11-13 11:35:02,798 - INFO - Successfully extracted text from C:\Users\simon\OneDrive\Documenti\data-driven-software-engineer-evaluation\data-processing\pdfs\sample-2.pdf
+2024-11-13 11:35:02,798 - INFO - Processing sample-3.pdf...
+2024-11-13 11:35:02,876 - INFO - Successfully extracted text from C:\Users\simon\OneDrive\Documenti\data-driven-software-engineer-evaluation\data-processing\pdfs\sample-3.pdf
+2024-11-13 11:35:02,876 - INFO - Data successfully saved to C:\Users\simon\OneDrive\Documenti\data-driven-software-engineer-evaluation\data-processing\extracted_data.json
+2024-11-13 11:35:02,877 - INFO - Processo completato
