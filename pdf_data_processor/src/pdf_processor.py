@@ -3,7 +3,6 @@ import json
 import os
 import logging
 
-# Configura il logging
 logging.basicConfig(
     filename="process_log.log",
     level=logging.INFO,
